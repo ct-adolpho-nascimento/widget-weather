@@ -38,4 +38,8 @@ export const styles = `
     display: grid;
     gap: .6rem;
   }
+
+  #date-time {
+    font-size: 12px;
+  }
 `;
